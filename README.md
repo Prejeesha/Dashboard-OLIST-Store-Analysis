@@ -15,6 +15,9 @@ Dataset Zip Folder Size: 45 MB
 
 [DASHBOARD](https://docs.google.com/spreadsheets/d/1rfF1g1mAvZxEoQkNUndfaqCnkIt3Vb-aL8KhqniGK1A/edit?gid=0#gid=0)
 
+
+![image](https://github.com/user-attachments/assets/da5e29d6-972d-4991-8369-ae4b3db8db80)
+
 KPI:
 
 Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
