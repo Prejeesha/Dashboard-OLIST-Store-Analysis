@@ -1,4 +1,6 @@
-# Dashboard-OLIST-Store-Analysis
+# OLIST-Store-Sales_Analysis
+<img width="1334" height="669" alt="image" src="https://github.com/user-attachments/assets/df16654f-c83b-4134-88f3-d27293deb242" />
+
 This interactive dashboard provides a comprehensive overview of e-commerce performance for Olist, a Brazilian online marketplace. It covers key metrics such as customer behavior, seller activity, payment types, order trends, and review scores.
 
 [DATASETS:](https://drive.google.com/drive/folders/1Be3vbMnBr2tbha2fc1FB9YnpBZlptV7l)
